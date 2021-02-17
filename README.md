@@ -1,2 +1,2 @@
 # Test
-Test repo for git command
+Test repo for git command and readme file
